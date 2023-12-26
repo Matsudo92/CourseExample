@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HerenciaTest
 {
-    abstract internal class Charac
+    internal class Charac
     {
         public int Strength { get; set; } 
         public int Agility { get; set; }

@@ -10,6 +10,8 @@ namespace HerenciaTest
     {
         static void Main(string[] args)
         {
+            //PROBAAANDO
+            
             SubClasse zerker = new SubClasse();
             SubClasse sage = new SubClasse();
             //The object Charac is a type abstract and cannot be instansed

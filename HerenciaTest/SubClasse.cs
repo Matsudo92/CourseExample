@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HerenciaTest
 {
-    internal class SubClasse:Classes
+    internal class SubClasse: Classes
     {
 
     }
